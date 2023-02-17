@@ -61,10 +61,8 @@ Console.WriteLine("третьей цифры нет");
 else if (a / 100 > 1 && a / 100 < 10)
 Console.WriteLine(a % 100 % 10);
 else 
-{
   while (a > 999) // этот цикл ввела чтобы сделать число трехзначным
   {
     a /=10;
   }
-}
 Console.WriteLine(a % 100 % 10);
