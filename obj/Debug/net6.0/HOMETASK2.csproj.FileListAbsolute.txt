@@ -1,0 +1,15 @@
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\bin\Debug\net6.0\HOMETASK2.exe
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\bin\Debug\net6.0\HOMETASK2.deps.json
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\bin\Debug\net6.0\HOMETASK2.runtimeconfig.json
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\bin\Debug\net6.0\HOMETASK2.dll
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\bin\Debug\net6.0\HOMETASK2.pdb
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.csproj.AssemblyReference.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.AssemblyInfoInputs.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.AssemblyInfo.cs
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.csproj.CoreCompileInputs.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.dll
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\refint\HOMETASK2.dll
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.pdb
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\HOMETASK2.genruntimeconfig.cache
+D:\обучение Гик Брейнс\ДЗ\secondseminar\HOMETASK2\obj\Debug\net6.0\ref\HOMETASK2.dll
